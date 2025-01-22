@@ -376,7 +376,10 @@ export default function Home() {
           </div>
         </motion.div>
       )}
-    </div>
+    <footer className="mt-8 border-t pt-4 text-center text-sm text-gray-500">
+      © {new Date().getFullYear()} ASH. Licensed under the GNU Affero General Public License v3.0.
+    </footer>
+    </div>  
   )
 }
 
