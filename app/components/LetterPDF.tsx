@@ -146,6 +146,7 @@ export default function LetterPDF({
       author={metadata.author}
       subject={metadata.subject}
       keywords={metadata.keywords}
+      producer="ASH letter builder"
       creator="ASH letter builder"
     >
       <Page
