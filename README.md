@@ -7,6 +7,7 @@ This project is a Next.js and React-based web application designed to create, fo
 - **Responsive UI:** The app offers a sleek user interface with smooth animations using **Framer Motion** for transitions and effects.
 - **Dynamic Letter Formatting:** Users can create and format letters with options for sender and recipient information, including name, address, and company details.
 - **PDF Generation:** Generate letters as PDFs using the **React-PDF** library, with customizable options for page size.
+- **PDF Metadata Customization:** Users can customize the PDF's metadata, such as title, author, and subject, before downloading the generated letter.
 - **Download Option:** After creating a letter, users can download the PDF directly to their system.
   
 ## Technologies Used
